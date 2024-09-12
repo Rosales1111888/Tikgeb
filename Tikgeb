@@ -1,0 +1,7 @@
+eco "# Tikgeb" >> README.md
+Git init
+git add README.md
+git commit -m "primer commit"
+git branch -M principal
+git remote añadir origen https://github.com/Rosales1111888/Tikgeb.git
+git push -u origen principal
